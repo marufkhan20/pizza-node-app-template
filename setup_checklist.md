@@ -2,14 +2,14 @@ Checklist for the express project initial setup
 
 - [x] Git Setup
 - [x] Node version manager
-- [ ] NodeJS Project setup
-- [ ] Typescript Setup
-- [ ] Prettier Setup
-- [ ] Eslint Setup
-- [ ] Git hooks setup
-- [ ] Application config setup
-- [ ] ExpressJs App Setup
-- [ ] Logger Setup
+- [x] NodeJS Project setup
+- [x] Typescript Setup
+- [x] Prettier Setup
+- [x] Eslint Setup
+- [x] Git hooks setup
+- [x] Application config setup
+- [x] ExpressJs App Setup
+- [x] Logger Setup
 - [ ] Error handling setup
 - [ ] Tests setup
 - [ ] Create Template
