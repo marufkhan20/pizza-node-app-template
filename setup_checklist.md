@@ -10,6 +10,6 @@ Checklist for the express project initial setup
 - [x] Application config setup
 - [x] ExpressJs App Setup
 - [x] Logger Setup
-- [ ] Error handling setup
+- [x] Error handling setup
 - [ ] Tests setup
 - [ ] Create Template
