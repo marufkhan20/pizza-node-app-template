@@ -1,5 +1,3 @@
-function login(username: string): boolean {
-  return true;
-}
+import { Config } from "./config";
 
-login("maruf");
+console.log("PORT", Config.PORT);
